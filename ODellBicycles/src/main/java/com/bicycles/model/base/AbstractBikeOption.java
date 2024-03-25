@@ -33,4 +33,9 @@ public abstract class AbstractBikeOption extends AbstractBike{
         return decoratedBike.getStartNumber();
     }
 
+    @Override
+    public String getSerialNumber() {
+        return decoratedBike.getSerialNumber();
+    }
+
 }

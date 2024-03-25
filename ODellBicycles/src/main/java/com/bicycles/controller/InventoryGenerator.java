@@ -42,7 +42,7 @@ public class InventoryGenerator {
     private void buildBikeInventory(ArrayList<AbstractBike> bikeList, Supplier<AbstractBike> bikeSupply) {
         generator.startGeneration(bikeSupply.get().getPrefix(), bikeSupply.get().getStartNumber());
 
-        for(int i = 0; i < 10; i++) {
+        for(int i = 0; i < 100; i++) {
             AbstractBike bike = bikeSupply.get();
             bike.setSerialNumber(generator.getNextSerial());
             bikeList.add(i, bike);

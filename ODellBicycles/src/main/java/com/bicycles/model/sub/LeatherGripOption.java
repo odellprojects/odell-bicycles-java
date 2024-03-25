@@ -21,4 +21,7 @@ public class LeatherGripOption extends AbstractBikeOption {
         return "Leather Grips option";
     }
 
+    @Override
+    public String toString() { return decoratedBike.toString(); }
+
 }

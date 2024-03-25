@@ -21,4 +21,7 @@ public class WhiteTireOption extends AbstractBikeOption {
         return "White Tire option";
     }
 
+    @Override
+    public String toString() { return decoratedBike.toString(); }
+
 }

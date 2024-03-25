@@ -21,4 +21,6 @@ public class LeatherSeatOption extends AbstractBikeOption {
         return "Leather Seat option";
     }
 
+    @Override
+    public String toString() { return decoratedBike.toString(); }
 }
