@@ -15,7 +15,7 @@ There will be more content added to this project in the future, including Unit T
 
 Welcome to O'Dell Bicycles. We put your team together so we could get a prototype application written for our company.
 
-We make a range of Road Bikes and Mountain Bikes. We have a default frame color for each of our bike styles. Below will be the listed colors and pricing. Before we sell one of our bikes, we perform a series of steps. These steps can be added to the customer receipt upon completion of an order. We will also provide those below. Our wheels come in two styles; Wide and normal. Each wheel type has a tire and tube and are specific to each type. We will however offer a white tire as a special-order item for either style.
+We make a range of Road Bikes and Mountain Bikes. We have a default frame color for each of our bike styles. Below will be the listed colors and pricing.  We will also provide those below. Our wheels come in two styles; Wide and normal. Each wheel type has a tire and tube and are specific to each type. We will however offer a white tire as a special-order item for either style.
 
 We also provide some custom options that are in addition to our base model bicycles. A limited-edition golden frame, leather seat and leather grips. These options come with an additional cost, which will be below. For our Road Bikes, we offer 2 styles: 
 - Touring
