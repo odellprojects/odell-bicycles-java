@@ -249,7 +249,6 @@ public class Order {
                 buyAccessories();
                 break;
             case "no":
-                orderDone();
                 break;
             default:
                 System.out.println("You have entered an invalid choice");
